@@ -1,5 +1,8 @@
 _repo: Duel-In-Black_64346
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64346-h/images/cover.jpg
 creator:
   author:
     agent_name: West, John Foster
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '33722'
     url: http://www.gutenberg.org/2009/agents/33722
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64346#Duel-In-Black
 gutenberg_issued: '2021-01-20'
 gutenberg_type: Text
 identifiers:
